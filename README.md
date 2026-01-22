@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Learning new things
 - 🌱 I’m currently learning ...computer science and engineering
 - 💞️ I’m looking to collaborate on ...the modern intelligence world
-- 📫 How to reach me ...Instagram:@bensho___
+- 📫 How to reach me ...Email: bensho003@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
