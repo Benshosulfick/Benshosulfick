@@ -38,12 +38,6 @@ Scikit-Learn
 
 🗳 Decentralized Voting Application using Blockchain
 
----
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benshosulfick&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benshosulfick&layout=compact)
 
 ---
 
