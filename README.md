@@ -1,21 +1,21 @@
-<h1 align="center">👋 Hello! I'm Benshou Sulfick</h1>
+<h1 align="center">Hi 👋, I'm Benshou Sulfick</h1>
 
 <p align="center">
-💻 Computer Science Student • 🤖 Machine Learning Enthusiast • 🔬 AI Research
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Computer+Science+Student;AI+Research+Explorer;Python+Developer" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science student  
-- 🧠 Interested in Machine Learning, AI, and Data Science  
-- 🔬 Working on Prostate Cancer Risk Prediction using ML  
-- 💡 Passionate about solving real-world problems with technology  
+🎓 Final Year Computer Science Student  
+🤖 Passionate about Machine Learning and AI  
+🔬 Working on Prostate Cancer Risk Prediction using ML  
+💡 Interested in building intelligent systems  
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python
 Java
@@ -26,30 +26,37 @@ Scikit-Learn
 
 ---
 
-📂 Featured Projects
+## 🚀 Featured Projects
 
-🧬 Prostate Cancer Risk Prediction (ML)  
-Machine learning models to classify prostate cancer risk using clinical datasets.
+🧬 Prostate Cancer Risk Prediction using ML
 
-🗳 Decentralized Voting Application  
-Blockchain voting system using smart contracts and Web3.
+🗳 Decentralized Voting Application using Blockchain
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-GitHub Stats
-
-Top Languages
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: Add your LinkedIn link  
-- 📧 Email: your email  
-- 🌐 Portfolio: your website  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Benshousulfick&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benshousulfick&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-⭐ Always learning and exploring new technologies in AI and Machine Learning
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Benshousulfick&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Benshousulfick&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐ Always learning and exploring *AI, Machine Learning, and Data Science
