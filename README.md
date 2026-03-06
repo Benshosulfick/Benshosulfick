@@ -37,7 +37,7 @@ SQL
 
 
 📫 Connect With Me
-- 💼 LinkedIn: (https://www.linkedin.com/in/bensho-singh-9677b5286
+- 💼 LinkedIn: https://www.linkedin.com/in/bensho-singh-9677b5286
 - 📧 Email: bensho003@gmail.com
 
 ---
