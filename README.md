@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 Python
 Java
@@ -26,7 +26,7 @@ Scikit-Learn
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
 
 🧬 Prostate Cancer Risk Prediction (ML)  
 Machine learning models to classify prostate cancer risk using clinical datasets.
@@ -36,7 +36,7 @@ Blockchain voting system using smart contracts and Web3.
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 GitHub Stats
 
