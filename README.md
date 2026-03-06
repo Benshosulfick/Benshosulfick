@@ -1,44 +1,54 @@
-👋 Hi, I'm JD Bensho Sulfick Singh
+<h1 align="center">👋 Hello! I'm Benshou Sulfick</h1>
 
-💻 Computer Science Student | 🤖 Machine Learning Enthusiast | 🔬 Researcher
+<p align="center">
+💻 Computer Science Student • 🤖 Machine Learning Enthusiast • 🔬 AI Research
+</p>
 
 ---
 
-🚀 About Me
-- 🎓 Final year Computer Science student
-- 🤖Purdue University research intern  
-- 🧠 Interested in Machine Learning and Data Science  
+## 🚀 About Me
+
+- 🎓 Final-year Computer Science student  
+- 🧠 Interested in Machine Learning, AI, and Data Science  
 - 🔬 Working on Prostate Cancer Risk Prediction using ML  
-- 📊 Experienced with Python, Scikit-Learn, Pandas, NumPy  
-- 🌎 Interested in AI research and real-world ML applications
+- 💡 Passionate about solving real-world problems with technology  
 
 ---
 
-🛠 Skills
-Java
+## 🛠 Tech Stack
+
 Python
+Java
 Machine Learning
-Scikit-Learn
 Pandas
 NumPy
-HTML CSS
-MongoDB
-SQL
+Scikit-Learn
 
 ---
 
-📂 Featured Projects
-🧬 Prostate Cancer Risk Prediction (Machine Learning)  
-- Built ML models to classify prostate cancer risk levels  
-- Used datasets from TCGA, MSKCC, and PSA  
-- Implemented Logistic Regression, Random Forest, and SVM  
+## 📂 Featured Projects
+
+🧬 Prostate Cancer Risk Prediction (ML)  
+Machine learning models to classify prostate cancer risk using clinical datasets.
+
+🗳 Decentralized Voting Application  
+Blockchain voting system using smart contracts and Web3.
 
 ---
 
+## 📊 GitHub Stats
 
-📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/bensho-singh-9677b5286
-- 📧 Email: bensho003@gmail.com
+GitHub Stats
+
+Top Languages
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: Add your LinkedIn link  
+- 📧 Email: your email  
+- 🌐 Portfolio: your website  
 
 ---
 
