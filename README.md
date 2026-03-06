@@ -41,13 +41,9 @@ Scikit-Learn
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benshosulfick&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benshosulfick&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benshosulfick&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benshosulfick&layout=compact)
 
 ---
 
