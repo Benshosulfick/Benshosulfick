@@ -26,18 +26,17 @@ Scikit-Learn
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 🧬 Prostate Cancer Risk Prediction using ML
 
 🗳 Decentralized Voting Application using Blockchain
 
 ---
-
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Benshousulfick&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Benshosulfick&show_icons=true&theme=tokyonight" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benshousulfick&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
@@ -54,7 +53,7 @@ Scikit-Learn
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Benshousulfick&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Benshosulfick&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
