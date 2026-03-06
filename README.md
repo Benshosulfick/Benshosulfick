@@ -1,4 +1,4 @@
-👋 Hi, I'm Benshou Sulfick
+👋 Hi, I'm JD Bensho Sulfick Singh
 
 💻 Computer Science Student | 🤖 Machine Learning Enthusiast | 🔬 Researcher
 
