@@ -18,11 +18,17 @@
 ## 🛠 Tech Stack
 
 Python
+
 Java
+
 Machine Learning
+
 Pandas
+
 NumPy
+
 Scikit-Learn
+
 
 ---
 
