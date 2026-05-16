@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final Year Computer Science Student  
+🎓 Computer Science Graduate  
 🤖 Passionate about Machine Learning and AI  
 🔬 Working on Prostate Cancer Risk Prediction using ML  
 💡 Interested in building intelligent systems  
