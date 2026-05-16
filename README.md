@@ -10,6 +10,7 @@
 
 🎓 Computer Science Graduate  
 🤖 Passionate about Machine Learning and AI 
+
 💡 Interested in building intelligent systems  
 
 ---
